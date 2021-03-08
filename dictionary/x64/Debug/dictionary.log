@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\Desktop\course\109-1\data_struct\hw5\B10832008_DS_hw5\source_code_read_file\dictionary\main.cpp(22,10): warning C4244: 'return': 將 '__int64' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  dictionary.vcxproj -> D:\Desktop\course\109-1\data_struct\hw5\B10832008_DS_hw5\source_code_read_file\x64\Debug\dictionary.exe

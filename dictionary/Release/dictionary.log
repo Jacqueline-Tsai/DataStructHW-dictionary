@@ -1,0 +1,11 @@
+﻿  main.cpp
+D:\Desktop\course\109-1\data_struct\hw5\source_code\dictionary\main.cpp(28,20): warning C4018: '<=': signed/unsigned 不相符
+D:\Desktop\course\109-1\data_struct\hw5\source_code\dictionary\main.cpp(34,20): warning C4018: '<': signed/unsigned 不相符
+D:\Desktop\course\109-1\data_struct\hw5\source_code\dictionary\main.cpp(41,20): warning C4018: '<': signed/unsigned 不相符
+D:\Desktop\course\109-1\data_struct\hw5\source_code\dictionary\main.cpp(47,20): warning C4018: '<': signed/unsigned 不相符
+  正在產生程式碼
+  422 of 431 functions (97.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  已完成程式碼產生
+  dictionary.vcxproj -> D:\Desktop\course\109-1\data_struct\hw5\source_code\Release\dictionary.exe

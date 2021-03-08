@@ -1,0 +1,6 @@
+﻿  main.cpp
+D:\Desktop\course\109-1\data_struct\hw5\dictionary\dictionary\main.cpp(29,20): warning C4018: '<=': signed/unsigned 不相符
+D:\Desktop\course\109-1\data_struct\hw5\dictionary\dictionary\main.cpp(35,20): warning C4018: '<': signed/unsigned 不相符
+D:\Desktop\course\109-1\data_struct\hw5\dictionary\dictionary\main.cpp(42,20): warning C4018: '<': signed/unsigned 不相符
+D:\Desktop\course\109-1\data_struct\hw5\dictionary\dictionary\main.cpp(48,20): warning C4018: '<': signed/unsigned 不相符
+  dictionary.vcxproj -> D:\Desktop\course\109-1\data_struct\hw5\dictionary\Debug\dictionary.exe

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dictionary", "dictionary\dictionary.vcxproj", "{367C0A73-CC50-4310-AE0B-F6B362D4E213}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{367C0A73-CC50-4310-AE0B-F6B362D4E213}.Debug|x64.ActiveCfg = Debug|x64
+		{367C0A73-CC50-4310-AE0B-F6B362D4E213}.Debug|x64.Build.0 = Debug|x64
+		{367C0A73-CC50-4310-AE0B-F6B362D4E213}.Debug|x86.ActiveCfg = Debug|Win32
+		{367C0A73-CC50-4310-AE0B-F6B362D4E213}.Debug|x86.Build.0 = Debug|Win32
+		{367C0A73-CC50-4310-AE0B-F6B362D4E213}.Release|x64.ActiveCfg = Release|x64
+		{367C0A73-CC50-4310-AE0B-F6B362D4E213}.Release|x64.Build.0 = Release|x64
+		{367C0A73-CC50-4310-AE0B-F6B362D4E213}.Release|x86.ActiveCfg = Release|Win32
+		{367C0A73-CC50-4310-AE0B-F6B362D4E213}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FFD83AEF-B244-454E-9AF6-177157BFA8A1}
+	EndGlobalSection
+EndGlobal
