@@ -20,6 +20,6 @@ The output is in CSV format. The first column is the original word in the input 
 
 
 ### Implementation
-In order to improve efficiency, I use hash table for the structure of the dictionary database.
+In order to improve efficiency, I use a hash table for the structure of the dictionary database.
 And used recursion to find all words have distance 1 and 2 from each input word.
 
