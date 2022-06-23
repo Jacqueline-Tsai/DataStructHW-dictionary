@@ -13,7 +13,7 @@ We say that the above set of words are all have distance of 1 from origin word. 
 
 ### Input
 A list of words to be looked for.
-file : ***input.txt*** ***input_500.txt***
+File : ***input.txt*** ***input_500.txt***
 
 ### Output
 The output is in CSV format. The first column is the original word in the input file. The second column is "OK" if the given word is already in the dictionary, "NONE" if we can’t find any suggested in the dictionary, else be the suggested words in the dictionary separated by a space. 
