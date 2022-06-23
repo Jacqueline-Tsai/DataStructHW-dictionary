@@ -1,4 +1,4 @@
-### Discription
+### Description
 This is a simple dictionary, which implements an efficiency English word checker. 
 
 First we have preprocessed CMU pronouncing dictionary ***dictionary.txt***. So we use the file to build the dictionary database.
